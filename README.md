@@ -1,5 +1,3 @@
-# Getting Started with Create React App
-
 # Todo React App
 
 # Author: Eduardo Mejia
