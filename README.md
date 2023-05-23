@@ -2,7 +2,7 @@
 
 # Author: Eduardo Mejia
 
-# This is React todo app that writes a list of task to accomplish.
+# This is a React "todo" app that creates a list of tasks to accomplish
 
 # The following components make up the app:
 
