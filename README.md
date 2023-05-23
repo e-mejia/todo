@@ -17,4 +17,6 @@
 2.  Todo.css
 3.  Todoform.css
 
+The app also uses React hooks, useState, useEffect and useRef.
+
 # The app uses a Universally Unique Identifier or UUID function to create unique IDs for mapping the list.
