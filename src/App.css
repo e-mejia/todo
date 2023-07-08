@@ -46,4 +46,7 @@
   text-align: center;
   margin-top: 23px;
   color: lightslategray;
+  display: flex;
+  flex-direction: column;
+  align-content: flex-end;
 }

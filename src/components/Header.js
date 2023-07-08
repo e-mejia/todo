@@ -1,3 +1,3 @@
 export default function Header() {
-  return <h1 className="title">todos</h1>;
+  return <h1 className="title">Task Tracker</h1>;
 }

@@ -32,7 +32,7 @@ export default function Todoform({
           ref={inputFocus}
         />
         <button type="submit" className="btn" onClick={handleFocus}>
-          Add todo
+          Add task
         </button>
       </form>
       <Todolist
