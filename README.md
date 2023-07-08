@@ -1,7 +1,9 @@
 # Task tracking application
 
+PURPOSE OF THE PROJECT:
 This is a React task tracking application that can be used to keep track of tasks one needs
 to do.
+
 
 The following components make up the app:
 
