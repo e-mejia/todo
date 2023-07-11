@@ -15,7 +15,7 @@
   text-align: center;
   padding-top: 15px;
   font-size: 85px;
-  color: lightskyblue;
+  color: blue;
   font-weight: 100;
   margin-bottom: 12px;
 }
@@ -44,7 +44,7 @@
 
 .footer {
   text-align: center;
-  margin-top: 23px;
+  margin: 23px;
   color: lightslategray;
   display: flex;
   flex-direction: column;
